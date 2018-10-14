@@ -1,0 +1,16 @@
+{
+    "name": "sort-arrays.ahk",
+    "version": "1.0.0",
+    "description": "general porpose array sorting functions for AutoHotKey",
+    "main": "export.ahk",
+    "scripts": {
+        "newinstall": "yarn install --modules-folder ./lib"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Chunjee/sort-arrays.ahk"
+    },
+    "dependencies": { },
+    "author": "uncredited",
+    "license": "MIT"
+}
